@@ -1,0 +1,26 @@
+[
+  {
+    "img": "../assets/images/travel-1.jpg",
+    "alt": "Tian Tan Buddha",
+    "name": "Tian Tan Buddha",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/travel-2.jpg",
+    "alt": "Plane",
+    "name": "Plane",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/travel-3.jpg",
+    "alt": "Wonder",
+    "name": "Wonder",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/travel-4.jpg",
+    "alt": "Desert Vibes",
+    "name": "Desert Vibes",
+    "button": "View Destination"
+  }
+]
